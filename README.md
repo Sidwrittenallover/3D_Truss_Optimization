@@ -4,4 +4,4 @@ This repository implements a structural optimization framework designed to minim
 lazy_3D_1 : Direct Stiffness Method Solver
 PSO_1: Modified Particle Swarm Optimization Algorithm
 Truss Optimization: Function and Load call file
-
+Connectivity: MemCon and Nodal Coordinates
